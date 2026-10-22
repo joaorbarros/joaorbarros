@@ -1,68 +1,98 @@
-# Olá, eu sou o João Barros 👋
+## Learning log
 
-🎓 Formado em Direito | 🤖 Em transição para Inteligência Artificial & Automação
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=joaorbarros&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209691246%3Fu%3D1944d6d373d088c013e82800e5ed5da8bb662fb7%26v%3D4" alt="joaorbarros hero visual" />
+</p>
 
-Depois de anos atuando na área jurídica, decidi migrar para o universo de IA, automação de processos e desenvolvimento. Hoje curso **Tecnologia em Inteligência Artificial** e venho construindo, na prática, os projetos que documentam essa jornada — do zero, um passo por vez.
+**João R. Barros** · Frontend or full-stack engineer
 
----
+## Currently learning
 
-## 💼 O que eu faço hoje
+> Building useful things and learning in public.
 
-Trabalho no **Fórum INTEGRA**, uma comunidade profissional para agentes de segurança pública em todo o Brasil, onde atuo com:
+**Learning next**
 
-- 📝 Comunicação institucional e produção de conteúdo (artigos e notícias no WordPress)
-- ⚙️ Automação de processos internos, incluindo onboarding de novos membros
-- 🤖 Aplicação de IA para otimizar fluxos de trabalho
+- HTML
+- Python
+- Jupyter Notebook
 
-## 🚀 Minha jornada em IA
+👥 **0** followers · **1** following
 
-Sigo um plano de estudos autodidata de 26 semanas (~7h/semana), estruturado para me preparar para atuar como **Desenvolvedor de Agentes de IA (AI Agent Developer)**. O plano cobre:
+## Tools I’m practicing
 
-- Python (fundamentos e aplicado)
-- LangChain & LangGraph
-- RAG (Retrieval-Augmented Generation) com ChromaDB
-- Sistemas multiagentes com CrewAI
-- Fundamentos acadêmicos do Tecnólogo em IA: Engenharia de Software (CMMI, RUP, Scrum, XP), Engenharia de Requisitos, Arquitetura de Computadores, lógica, estatística e probabilidade
+- **HTML** · 94%
+- **Python** · 4%
+- **Jupyter Notebook** · 2%
 
-## 🧩 Skills
+## Projects in progress
 
-**✅ Aplicadas em projetos reais:**
+<details>
+<summary><b>Guia-de-Estudos---Banco-de-Dados</b> · HTML</summary>
 
-`Python` `FastAPI` `SQLite` `RapidFuzz` `N8N` `GitHub Actions` `Automação de Processos` `Web Scraping`
+Guia de estudo interativo de Banco de Dados: modelagem, SQL e console SQLite no navegador<br/>
+⭐ 0 · 🍴 0
 
-**📚 Em estudo / aplicação prática (plano de 26 semanas):**
+[View repository](https://github.com/joaorbarros/Guia-de-Estudos---Banco-de-Dados)
+</details>
 
-`LangChain` `LangGraph` `RAG` `ChromaDB` `CrewAI` `Sistemas Multiagentes`
+<details>
+<summary><b>joaorbarros</b> · open source</summary>
 
-> Prefiro ser transparente sobre o que já construí versus o que estou aprendendo agora — acredito que isso conta uma história mais honesta (e mais interessante) sobre essa migração de carreira.
+Bacharel em Direito em transição para Desenvolvimento de IA. Aqui documento minha jornada, projetos e aprendizados.<br/>
+⭐ 0 · 🍴 0
 
-## 🔧 Experiência prática atual
+[View repository](https://github.com/joaorbarros/joaorbarros)
+</details>
 
-Além dos projetos de portfólio, estou desenvolvendo duas aplicações internas para o Fórum INTEGRA — trabalho que tem sido fundamental para meu aprendizado prático em tecnologia:
+<details>
+<summary><b>book-finder</b> · Python</summary>
 
-- **Nova plataforma institucional** — desenvolvimento de um novo site para o Fórum INTEGRA, complementando/substituindo a estrutura atual em WordPress.
-- **Aplicativo mobile para membros** — app mobile voltado à comunidade do Fórum INTEGRA.
+Ferramenta de linha de comando em Python para localizar e baixar livros em PDF a partir de acervos legítimos e de acesso aberto (Internet Archive e Open Library). Usa similaridade textual para matching preciso e checagem automática de integridade dos arquivos baixados<br/>
+⭐ 0 · 🍴 1
 
-Esses projetos são privados/internos, mas têm me colocado em contato direto com processos e tecnologias com os quais eu ainda não tinha experiência — parte essencial da minha transição de carreira.
+[View repository](https://github.com/joaorbarros/book-finder)
+</details>
 
-## 🛠️ Projetos
+<details>
+<summary><b>newsletter-diaria-forum-integra</b> · Python</summary>
 
-- **[Newsletter Diária Fórum INTEGRA](https://github.com/joaorbarros/newsletter-diaria-forum-integra)** — Pipeline de agregação de notícias via RSS, com deploy automatizado via GitHub Actions, enviando e-mails formatados para WhatsApp em dias úteis.
-- **[Book Finder](https://github.com/joaorbarros/book-finder)** — API construída com FastAPI + SQLite + RapidFuzz para busca inteligente de livros, com integração via N8N.
-- **[Guia de Segurança da Informação](https://github.com/joaorbarros/guia-seguranca-informacao)** — Material de referência sobre segurança da informação.
+Pipeline de agentes em Python que busca, filtra e organiza notícias policiais em fontes públicas, gerando uma newsletter diária para WhatsApp — sem IA generativa, sem custo de API<br/>
+⭐ 0 · 🍴 0
 
-## 📫 Como me encontrar
+[View repository](https://github.com/joaorbarros/newsletter-diaria-forum-integra)
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-rbarros/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaorbarros)
+<details>
+<summary><b>guia-seguranca-informacao</b> · HTML</summary>
 
----
+Estou disponibilizando aqui um material de estudo sobre Cybersecurity e Segurança da Informação. O material é um guia interativo, criado em HTML, para uso próprio e pratica com agentes de IA generativas.<br/>
+⭐ 0 · 🍴 0
 
-### 📊 Estatísticas do GitHub
+[View repository](https://github.com/joaorbarros/guia-seguranca-informacao)
+</details>
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorbarros&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbarros&layout=compact)
+## Progress so far
 
----
+- **Current streak:** 0 days
+- **Longest streak:** 3 days
+- **Active days:** 8 days
 
-💡 *De bacharel em Direito a desenvolvedor de IA — construindo essa transição um projeto por vez.*
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=joaorbarros&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209691246%3Fu%3D1944d6d373d088c013e82800e5ed5da8bb662fb7%26v%3D4" alt="joaorbarros stats visual" />
+</p>
+
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=joaorbarros&theme=zen" alt="joaorbarros contribution activity" />
+</p>
+
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=joaorbarros&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209691246%3Fu%3D1944d6d373d088c013e82800e5ed5da8bb662fb7%26v%3D4" alt="joaorbarros social visual" />
+</p>
+
+<a href="https://github.com/joaorbarros">GitHub</a>
+
+<p align="center"><sub>João R. Barros · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
